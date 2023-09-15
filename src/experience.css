@@ -1,0 +1,28 @@
+h3{
+   
+        text-shadow: 0px 2px 5px black;
+      
+}
+h4{
+    color: #bec3cc;
+}
+.tittle{
+    color: darkgoldenrod;
+    font-family: 'Tangerine', cursive;
+    font-size: 340%;
+    text-shadow: 0px 2px 5px black;
+}
+
+@font-face {
+    font-family: 'Tangerine';
+    src: url('../Tangerine/Tangerine-Regular.ttf') format('truetype');
+  }
+  b{
+    font-size: x-large;
+    color: #cfb686;
+    text-shadow: 0px 2px 5px black;
+  }
+  .job{
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 0px 2px 5px black;
+  }
