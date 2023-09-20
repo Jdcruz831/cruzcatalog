@@ -56,11 +56,15 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: medium;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+
 .aboutMe{
   font-family: 'Times New Roman', Times, serif;
   text-shadow: 0px 2px 5px black;
   margin: 5%;
   line-height: 150%;
+  border-radius: 8px;
+ 
 }
 .custom-link {
   text-decoration: none; /* Remove the underline */
@@ -93,4 +97,35 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   justify-content: center;
   align-items: flex-end;
   
+}
+
+.vp {
+  max-width: 30%;
+  max-height: 70%;
+  filter: brightness(80%);
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px  #080808;
+  position: fixed;
+  bottom: 14%;
+  left: 20%;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  top: 23%;
+}
+
+.hp {
+  max-width: 27%;
+  filter: brightness(80%);
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px  #080808;
+  position: fixed;
+  bottom: 7%;
+  right: -3%;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+ 
 }

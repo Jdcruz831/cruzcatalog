@@ -5,6 +5,7 @@ import sacState from './pictures/sacState.png';
 import Button from '@mui/material/Button';
 import FileDownloadIcon from '@mui/icons-material/FileDownload';
 
+import vImage from './pictures/vp.jpg';
 function Education() {
   const [value, setValue] = React.useState('1');
 
@@ -13,7 +14,11 @@ function Education() {
   };
   return (
     <div>
-    
+    <Box>
+    <img class = "vp" src={vImage} alt="vertical Image" />
+
+
+    </Box>
       
       <Box
       sx= {{
@@ -81,9 +86,13 @@ function Education() {
         </Box>
         </center>
         <Box
-        sx = {{
-            width: '50%'
-          }}>
+         sx = {{
+          display: 'flex',
+          flexGrow: '2',
+          marginTop: '-20px'
+        }}
+        >
+        <Box>
         <p class = "tEducation">Relevent Topics and Coursework: </p>
        
         <ul>
@@ -96,9 +105,9 @@ function Education() {
         </Box>
 
         <Box sx = {{
-            width: '50%',
-            float: 'right',
-            marginTop: '-22%'
+          
+           
+            
           }}>
         <p class = "tEducation">Additional Topics and Coursework: </p>
        
@@ -110,6 +119,8 @@ function Education() {
             <li>Human Development </li>
         </ul>
         </Box>
+        </Box>
+
         </Box>
     </div>
   );

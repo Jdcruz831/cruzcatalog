@@ -18,6 +18,7 @@ function App() {
             <Route path = "/aboutMe" element = {<AboutMe />} />
             <Route path = "/projectRepository" element = {<ProjectRepository />} />
             <Route path = "/personalLibrary" element = {<PersonalLibrary />} />
+            <Route path = "/aboutMe/contact" element = {<AboutMe initialTab="5" />} />
             
           </Routes>
     </BrowserRouter>

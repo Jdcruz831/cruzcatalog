@@ -4,7 +4,7 @@ import { TabContext, TabPanel } from '@mui/lab';
 import Box from '@mui/material/Box';
 import Tab from '@mui/material/Tab';
 import TabList from '@mui/lab/TabList';
-
+import hImage from './pictures/hp.jpg';
 
 function Experience() {
   const [value, setValue] = React.useState('1');
@@ -140,7 +140,7 @@ function Experience() {
               </div>
 
             </TabContext>
-
+            <img class = "hp" src={hImage} alt="h Image" />
      </center>
     </div>
   );

@@ -31,7 +31,7 @@ function Home() {
      <p className='quote'>"Conversation enriches the understanding, but solitude is the school of genius" -Edward Gibbon</p>
 
      <div className="imageList">
-        <ImageList variant="masonry" cols={3} gap={15} sx={{ overflowX: 'hidden', width: '100%' }}>
+        <ImageList variant="masonry" cols={3} gap={15} sx={{ overflowX: 'hidden', width: '100%', borderRadius: '8px' }}>
           <ImageListItem>
             <img src={firstImage} alt="First Image" />
           </ImageListItem>

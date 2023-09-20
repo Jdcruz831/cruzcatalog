@@ -15,12 +15,12 @@ import Button from '@mui/material/Button';
 import Education from "./Education";
 import AboutMeMe from "./aboutMeMe";
 import Contact from "./contact";
-
+import { useLocation } from 'react-router-dom';
 
 
 function AboutMe() {
-  
-  const [value, setValue] = React.useState('1');
+  const currentLocation = useLocation();
+  const [value, setValue] = React.useState( currentLocation.pathname === '/aboutMe/contact' ? '5' : '1');
 
   const handleChange = (event, newValue) => {
     setValue(newValue);

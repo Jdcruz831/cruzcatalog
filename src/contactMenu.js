@@ -3,6 +3,7 @@ import PersonIcon from '@mui/icons-material/Person';
 import Fab from '@mui/material/Fab';
 
 
+
 function ContactMenu() {
   return (
     <div>
@@ -22,6 +23,7 @@ function ContactMenu() {
      
     }
   }}
+  href="/aboutMe/contact"
 >
    <PersonIcon />
       </Fab>

@@ -16,24 +16,35 @@ function AboutMeMe() {
     <div>
     
     <center>
-     
-     <div className="imageList2">
-        <ImageList variant="masonry" cols={3} gap={15} sx={{ alignItems: 'flex-start', overflowX: 'hidden', width: '100%', }}>
-          <ImageListItem>
-            <img src={wineImage} alt="First Image" />
-          </ImageListItem>
-          <ImageListItem>
-          <Box
-      sx= {{
-        boxShadow: '10px 10px 10px black',
-        backgroundColor: '#486b7a',
-       
-         borderRadius: '8px',
-     
-              
+     <Box
+      sx = {{
+        display: 'flex',
+        flexGrow: '2',
+        gap: '5%',
       }}
-      >
-        <p class = "aboutMe"> I'm Jacob Cruz, a dedicated full-time student currently pursuing
+     >
+    <Box sx = {{
+        marginTop: '20px'
+         
+         }}>
+          <ImageListItem
+           sx={{
+             marginTop: '20px',
+             borderRadius: '8px'
+              }}
+          >
+            <img src={wineImage} alt="First Image" />
+            </ImageListItem>
+    </Box>
+    
+    <Box
+    sx = {{
+      boxShadow: '10px 10px 10px black',
+        backgroundColor: '#486b7a',
+        borderRadius: '8px',
+        height: '520px'
+    }}>
+<p class = "aboutMe"> I'm Jacob Cruz, a dedicated full-time student currently pursuing
        a Bachelor's degree in Computer Science with a minor in Mathematics
         at California State University, Sacramento. My academic journey is 
         defined by a passion for problem-solving and intellectual growth,
@@ -53,13 +64,20 @@ function AboutMeMe() {
        I aim to bridge the gap between theory and practice, both in my 
        academic journey and my life's adventures.
        </p>
-       </Box>
-          </ImageListItem>
-          <ImageListItem>
+    </Box>
+
+    <Box>
+    <ImageListItem
+     sx={{
+      marginTop: '20px',
+      borderRadius: '8px'
+       }}>
             <img src={momaImage} alt="Third Image" />
           </ImageListItem>
-        </ImageList>
-      </div>
+    </Box>
+     </Box>
+    
+     
      
         </center>
         
