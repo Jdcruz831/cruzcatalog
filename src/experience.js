@@ -7,7 +7,7 @@ import TabList from '@mui/lab/TabList';
 import hImage from './pictures/hp.jpg';
 
 function Experience() {
-  const [value, setValue] = React.useState('1');
+  const [value, setValue] = React.useState('2');
 
   const handleChange = (event, newValue) => {
     setValue(newValue);
@@ -28,7 +28,7 @@ function Experience() {
         position: 'fixed',
       }}
       >
-        <h1 className='tittle'>Professional Experience</h1>
+        <h1> <b>Professional Experience</b></h1>
         <TabList 
          onChange={handleChange}
          textColor="#cfb686"

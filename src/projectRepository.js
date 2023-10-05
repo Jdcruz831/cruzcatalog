@@ -34,7 +34,7 @@ function ProjectRepository() {
      <Box
      sx = {{
       display: 'flex',
-      gap: '4%',
+      gap: '3%',
       justifyContent: 'center', // Center horizontally
       alignItems: 'center',
       width: '95vw',           // 100% of viewport width
