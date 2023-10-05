@@ -15,7 +15,7 @@ function Dr() {
    <Box>
 
 
-    <h1 class = "projectT"> Pharmaceutical-Study-Web-App-Project</h1>
+    <h1 class = "projectT"> Pharmaceutical-Web-App-Project</h1>
    </Box>
     
   );

@@ -46,7 +46,7 @@ function Education() {
             />
             <p class = "Education">- Bachelor's Degree in Computer Science (In Progress) </p>
             <p class = "hEducation">-Minor in Mathematics  (In Progress) </p>
-            <p class = "lEducation"> 2020-2024 | Sacramento State | California State University Sacramento | GPA: 3.4</p>
+            <p class = "lEducation"> 2025 | Sacramento State | California State University Sacramento | GPA: 3.4</p>
              
 
               <Box

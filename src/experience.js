@@ -109,7 +109,8 @@ function Experience() {
                   
                     <b> S.I. and Supervisor for Math Course</b><br/><br/>
                     <p className='job'>- Tutored students in various subjects, including Computer Science and Math.<br/><br/>
-                    - Assisted in the planning and execution of PAL program events.</p>
+                    - Assisted in the planning and execution of PAL program events.<br/><br/>
+                    - Developed and managed in depth acedemic research</p>
 
               </TabPanel>
 

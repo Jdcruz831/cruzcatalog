@@ -8,6 +8,7 @@ import TabContext from '@mui/lab/TabContext';
 import TabList from '@mui/lab/TabList';
 import TabPanel from '@mui/lab/TabPanel';
 import MenuButton from './menu.js';
+import Research from './academicResearch';
 import Box from '@mui/material/Box';
 import Experience from "./experience";
 import FileDownloadIcon from '@mui/icons-material/FileDownload';
@@ -91,7 +92,7 @@ function AboutMe() {
           color: 'white',
           textShadow: '5px 5px 5px black',
         }} 
-        label='Volunteer Work' 
+        label='Academic Research' 
         value="4"/>
         <hr></hr>
         <Tab sx= {{
@@ -124,7 +125,9 @@ function AboutMe() {
         <Education />
         
          </TabPanel>
-      <TabPanel value="4" >'Volunteer Work</TabPanel>
+      <TabPanel value="4" >
+        <Research />
+        </TabPanel>
       <TabPanel value="5">
         
         <Contact />
