@@ -1,26 +1,32 @@
 {
   "files": {
-    "main.css": "/cruzcatalog/static/css/main.7d0002ea.css",
-    "main.js": "/cruzcatalog/static/js/main.637abb5b.js",
-    "static/js/787.51730a3f.chunk.js": "/cruzcatalog/static/js/787.51730a3f.chunk.js",
-    "static/media/hp.jpg": "/cruzcatalog/static/media/hp.18e5af747bfceb564795.jpg",
-    "static/media/vp.jpg": "/cruzcatalog/static/media/vp.7a72c290952d2a8b5774.jpg",
-    "static/media/mushroom-plants-glowing-4k-cd.jpg": "/cruzcatalog/static/media/mushroom-plants-glowing-4k-cd.f4dc3a891609c6dd6179.jpg",
-    "static/media/catalina.jpg": "/cruzcatalog/static/media/catalina.0fed15e0b021351d3096.jpg",
-    "static/media/moma.jpg": "/cruzcatalog/static/media/moma.9bd9031cb3df4af1bae1.jpg",
-    "static/media/wine.jpg": "/cruzcatalog/static/media/wine.a34e0a4fccc908c0808a.jpg",
-    "static/media/porto.jpg": "/cruzcatalog/static/media/porto.5d1b614504bc64a11f89.jpg",
-    "static/media/chess.jpg": "/cruzcatalog/static/media/chess.1c93db43769e3abd127b.jpg",
-    "static/media/sacState.png": "/cruzcatalog/static/media/sacState.bf92664a7f461ae47e68.png",
-    "static/media/climb.jpg": "/cruzcatalog/static/media/climb.5510da02bb502a4b60a8.jpg",
-    "static/media/Tangerine-Regular.ttf": "/cruzcatalog/static/media/Tangerine-Regular.6b04eb83dd71e2762243.ttf",
-    "index.html": "/cruzcatalog/index.html",
-    "main.7d0002ea.css.map": "/cruzcatalog/static/css/main.7d0002ea.css.map",
-    "main.637abb5b.js.map": "/cruzcatalog/static/js/main.637abb5b.js.map",
-    "787.51730a3f.chunk.js.map": "/cruzcatalog/static/js/787.51730a3f.chunk.js.map"
+    "main.css": "/static/css/main.190eadc9.css",
+    "main.js": "/static/js/main.0dcbb153.js",
+    "static/js/787.51730a3f.chunk.js": "/static/js/787.51730a3f.chunk.js",
+    "static/media/hp.jpg": "/static/media/hp.18e5af747bfceb564795.jpg",
+    "static/media/this.png": "/static/media/this.4a91e10b49e1be444fd5.png",
+    "static/media/vp.jpg": "/static/media/vp.7a72c290952d2a8b5774.jpg",
+    "static/media/mushroom-plants-glowing-4k-cd.jpg": "/static/media/mushroom-plants-glowing-4k-cd.f4dc3a891609c6dd6179.jpg",
+    "static/media/catalina.jpg": "/static/media/catalina.0fed15e0b021351d3096.jpg",
+    "static/media/moma.jpg": "/static/media/moma.9bd9031cb3df4af1bae1.jpg",
+    "static/media/sd.jpg": "/static/media/sd.4095ed8696ce61cf74d7.jpg",
+    "static/media/calander.jpg": "/static/media/calander.e731ffe08b0aa38fcc26.jpg",
+    "static/media/wine.jpg": "/static/media/wine.a34e0a4fccc908c0808a.jpg",
+    "static/media/porto.jpg": "/static/media/porto.5d1b614504bc64a11f89.jpg",
+    "static/media/projectGIF.gif": "/static/media/projectGIF.31ed6be3f5cdf3b3c003.gif",
+    "static/media/chess.jpg": "/static/media/chess.1c93db43769e3abd127b.jpg",
+    "static/media/sacState.png": "/static/media/sacState.bf92664a7f461ae47e68.png",
+    "static/media/climb.jpg": "/static/media/climb.5510da02bb502a4b60a8.jpg",
+    "static/media/venture.jpg": "/static/media/venture.403a7140493fbd58e13e.jpg",
+    "static/media/Tangerine-Regular.ttf": "/static/media/Tangerine-Regular.6b04eb83dd71e2762243.ttf",
+    "static/media/figma.png": "/static/media/figma.c60943cb2c5f95b7e8d0.png",
+    "index.html": "/index.html",
+    "main.190eadc9.css.map": "/static/css/main.190eadc9.css.map",
+    "main.0dcbb153.js.map": "/static/js/main.0dcbb153.js.map",
+    "787.51730a3f.chunk.js.map": "/static/js/787.51730a3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d0002ea.css",
-    "static/js/main.637abb5b.js"
+    "static/css/main.190eadc9.css",
+    "static/js/main.0dcbb153.js"
   ]
 }
