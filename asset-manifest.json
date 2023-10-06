@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/cruzcatalog/static/css/main.7d0002ea.css",
+    "main.css": "/cruzcatalog/static/css/main.b4af0a04.css",
     "main.js": "/cruzcatalog/static/js/main.f40aff89.js",
     "static/js/787.51730a3f.chunk.js": "/cruzcatalog/static/js/787.51730a3f.chunk.js",
     "static/media/hp.jpg": "/cruzcatalog/static/media/hp.18e5af747bfceb564795.jpg",
     "static/media/this.png": "/cruzcatalog/static/media/this.4a91e10b49e1be444fd5.png",
     "static/media/vp.jpg": "/cruzcatalog/static/media/vp.7a72c290952d2a8b5774.jpg",
-    "static/media/mushroom-plants-glowing-4k-cd.jpg": "/cruzcatalog/static/media/mushroom-plants-glowing-4k-cd.f4dc3a891609c6dd6179.jpg",
+    "static/media/shroom.jpg": "/cruzcatalog/static/media/shroom.f4dc3a891609c6dd6179.jpg",
     "static/media/catalina.jpg": "/cruzcatalog/static/media/catalina.0fed15e0b021351d3096.jpg",
     "static/media/moma.jpg": "/cruzcatalog/static/media/moma.9bd9031cb3df4af1bae1.jpg",
     "static/media/sd.jpg": "/cruzcatalog/static/media/sd.4095ed8696ce61cf74d7.jpg",
@@ -21,12 +21,12 @@
     "static/media/Tangerine-Regular.ttf": "/cruzcatalog/static/media/Tangerine-Regular.6b04eb83dd71e2762243.ttf",
     "static/media/figma.png": "/cruzcatalog/static/media/figma.c60943cb2c5f95b7e8d0.png",
     "index.html": "/cruzcatalog/index.html",
-    "main.7d0002ea.css.map": "/cruzcatalog/static/css/main.7d0002ea.css.map",
+    "main.b4af0a04.css.map": "/cruzcatalog/static/css/main.b4af0a04.css.map",
     "main.f40aff89.js.map": "/cruzcatalog/static/js/main.f40aff89.js.map",
     "787.51730a3f.chunk.js.map": "/cruzcatalog/static/js/787.51730a3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d0002ea.css",
+    "static/css/main.b4af0a04.css",
     "static/js/main.f40aff89.js"
   ]
 }
