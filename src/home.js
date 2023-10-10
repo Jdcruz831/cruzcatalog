@@ -1,16 +1,13 @@
 import React from 'react';
-import './theme.css';
 import MenuButton from './menu.js';
-import './home.css';
 import ContactMenu from './contactMenu.js';
-
 import ImageList from '@mui/material/ImageList';
 import ImageListItem from '@mui/material/ImageListItem';
-
 import firstImage from './pictures/climb.jpg';
 import secondImage from './pictures/catalina.jpg';
 import thirdImage from './pictures/chess.jpg';
-
+import './home.css';
+import './theme.css';
 
 function Home() {
   return (
@@ -20,8 +17,7 @@ function Home() {
 
 
 
-      
-    
+     
 
 
      <center>
