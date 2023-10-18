@@ -38,7 +38,7 @@ function Contact() {
        </div>
 
        <div class="icon-and-text">
-       <LocalPhoneIcon/><p class="social">Cell Phone: (831)601-0323</p>
+       <LocalPhoneIcon/><p class="social">Cell Phone: (831) 601-0323</p>
        </div>
          
       </center>
@@ -61,7 +61,9 @@ function Contact() {
       
        <div class="icon-and-text">
         <InstagramIcon></InstagramIcon>
-        <p class="social">Instagram: Jacobcruz_02</p>
+        <p class="social">
+        <a class="custom-link" href="https://www.instagram.com/jacobcruz_02/">Instagram: Jacobcruz_02</a>
+        </p>
         </div>
 
         <div class="icon-and-text">
