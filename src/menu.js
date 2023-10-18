@@ -92,7 +92,7 @@ function MenuButton() {
            >
         <Box>
           <Button
-            href="/ProjectRepository"
+            href="/#/ProjectRepository"
             variant="contained"
             sx={{  
               backgroundColor: '#486b7a',
@@ -115,7 +115,7 @@ function MenuButton() {
             >
         <Box>
           <Button
-            href="/PersonalLibrary"
+            href="/#/PersonalLibrary"
             variant="contained"
             sx={{  
               backgroundColor: '#486b7a',
@@ -138,7 +138,7 @@ function MenuButton() {
        >
         <Box>
           <Button
-            href="/AboutMe"
+            href="/#/AboutMe"
             variant="contained"
             sx={{  
               backgroundColor: '#486b7a',
