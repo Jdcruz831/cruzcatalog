@@ -52,8 +52,8 @@ function Research() {
                          <b>Bridging the Social Distance​ </b></p>
 
                     <p style={{ fontSize: 'meduim',  fontFamily: 'Playfair Display', textShadow: '0px 2px 5px black' }}>
-                    Research centered on addressing the challenges faced by students in fostering social connections,
-                     stemming from the reduced social connectivity resulting from the COVID-19 pandemic</p>
+                    Research addressing the challenges faced by students in creating social connections,
+                     stemming from the reduced social connectivity of the COVID-19 pandemic</p>
 
 
                      </Box>

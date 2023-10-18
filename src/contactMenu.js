@@ -23,7 +23,7 @@ function ContactMenu() {
      
     }
   }}
-  href="/aboutMe/contact"
+  href="/#/aboutMe/contact"
 >
    <PersonIcon />
       </Fab>
